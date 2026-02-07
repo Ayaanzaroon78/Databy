@@ -384,7 +384,7 @@ CREATE TABLE query_history_2024_q1 PARTITION OF query_history
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/queryoptim.git
+git clone https://github.com/Ayaanzaroon78/queryoptim.git
 cd queryoptim
 
 # Open the frontend
@@ -399,7 +399,7 @@ python3 -m http.server 8000
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/queryoptim.git
+git clone https://github.com/Ayaanzaroon78/queryoptim.git
 cd queryoptim
 
 # Install dependencies
@@ -495,10 +495,6 @@ open http://localhost:3000
 
 ---
 
-## 🏆 Why This Project Stands Out
-
-### For Microsoft/Google Recruiters
-
 This project demonstrates:
 
 1. **Systems Thinking**: Understanding databases at the internals level (query planner, buffer cache, cost estimation)
@@ -570,7 +566,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Syed Ayaan** - zaroonsyedayaan@gmail.com
 
-**Project Link**: [https://github.com/yourusername/queryoptim](https://github.com/Ayaanzaroon78/Databy)
+**Project Link**: [https://github.com/Ayaanzaroon78/Daataby](https://github.com/Ayaanzaroon78/Databy)
 
 **LinkedIn**: [https://linkedin.com/in/syed-ayaan-29b579318/](linkedin.com/in/syed-ayaan-29b579318/)
 
